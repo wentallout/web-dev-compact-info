@@ -2,7 +2,14 @@
 
 0. Design Theory:
 You need to think like a designer, yeah YOU, you think a frontend dev doesn't need to know about beautiful designs? WRONG.
-Colors: look at your project and think strongly about people's emotions when they use it, different shades = different moods.
+Colors:
+TOOLS: 
+colorhunt.com 
+flatuicolors.com --> iOS
+materialpalette.com --> ANDROID
+ColorZilla: pick colors for you in your browser.
+
+Look at your project and think strongly about what people feel when they use it, different shades = different moods.
 TIPS: Learn from ads, if you see an ad that's related to your project, maybe the colors they're using is good. If a color is too intense, people might not look at it for too long
 - RED: love, energy, intensity, fast cars, love-related, underwear??, manipulation, seduction
 - YELLOW: joy, intellect, attention grabbing.
@@ -11,11 +18,15 @@ TIPS: Learn from ads, if you see an ad that's related to your project, maybe the
 - PURPLE: royalty, wealth, feminity, loan company, women-related stuff, I actually don't like this
 COLORS WHEEL THEORY: 
 - Analogous: next color to the color you pick in the wheel --> harmonious, plesant to look at for a long time but not attention grabbing
-- Complementary: opposite color in the wheel --> extremyly standout, grab your attention, WARNING: usually not good for UI
+- Complementary: opposite color in the wheel --> extremely standout, grab your attention, WARNING: usually not good for UI
 - Split colors: basically a 3 colors palate, great for icons, logo, standout but not CLASHY
 - Triadic: balanced, attention grabbing, overused in the 90s (haha) --> DATED
 - Monochromatic: use the same COLORs in the wheel (red with this shades + another red with another shades) --> VERY MODERN, VERY GOOD.
 Typography: harmony is the key, you want to make your fonts work TOGETHER, getting a pretty font doesn't mean anything, you need to know what to pick, how to use it to show contrast and grab people's attention
+main problem: there are way too many FONTS, what the hell do I pick?
+SERIF: conservative, old looking (ex: Didot)
+Slab-Serif: You don't want to use this, trust me.
+For modern websites: you should only care about sans-serif
 
 
 1. CSS:
