@@ -30,6 +30,9 @@ For modern websites: you should only care about sans-serif
 
 
 1. CSS:
+Units (px, em, rem, vh, vw): THERE IS NO BEST. some people argue that you should never touch px but the truth is sometimes you must use it (ex: you need a border that has a fixed size no matter what). you mainly use rem for FONTS, vh and vw are pretty cool, it scales to the viewport. rem is good for pretty much any situations. (an old trick: use font-size: 62.5% in html)
+
+
 - FLEXBOX
 - GRID
 
