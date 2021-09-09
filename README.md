@@ -1,7 +1,7 @@
 # web-dev-compact-info
 
 0. Design Theory:
-You need to think like a designer, yeah YOU, you think a frontend dev doesn't need to know about beautiful designs? WRONG.
+
 Colors:
 TOOLS: 
 colorhunt.com 
